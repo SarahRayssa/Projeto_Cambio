@@ -1,8 +1,8 @@
-## Conversor de Moedas, Dolar e Real
+## Currency Converter, Dollar and Real
 
-# Tecnologias Usadas:
+# Technologies Used:
 - HTML
 - CSS
 - JavaScript
 
-É um projeto feito para aprimorar os estudos em Front End.
+It is a project made to improve Front End studies.
